@@ -52,8 +52,7 @@ body{
     background-color: green;
     opacity: 0;
     animation-name: greenAnim;
-    animation-duration: 3s;
-    animation-delay: 3s;
+    animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 
